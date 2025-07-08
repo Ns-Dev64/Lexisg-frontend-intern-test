@@ -12,6 +12,7 @@ A ChatGPT-like legal assistant interface that allows users to ask legal question
 - **Responsive Design**: Works on desktop and mobile devices
 - **Loading States**: Visual feedback during question processing
 
+
 ## How to Run
 
 1. **Install dependencies:**
