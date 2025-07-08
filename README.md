@@ -67,7 +67,7 @@ The application handles citations by:
 
 ## Project Structure
 
-\`\`\`
+```
 ├── app/
 │   ├── page.tsx          # Main chat interface
 │   └── layout.tsx        # App layout
@@ -77,7 +77,7 @@ The application handles citations by:
 │   ├── card.tsx
 │   └── textarea.tsx
 └── README.md
-\`\`\`
+```
 
 ## Features Implemented
 
@@ -100,15 +100,11 @@ To use your own legal documents:
 3. Ensure your PDFs support the \`#search=\` parameter for text highlighting
 
 Example citation format:
-\`\`\`javascript
+```javascript
 {
   text: "Your citation text here...",
   source: "Document_Name.pdf",
   link: "https://your-domain.com/documents/Document_Name.pdf",
   paragraph: 7
 }
-\`\`\`
-
----
-
-Built with ❤️ for Lexi Singapore
+```
