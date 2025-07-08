@@ -94,8 +94,8 @@ The application handles citations by:
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/883b7c9a-6a82-4eb5-b360-9a9958b771b1)
 ![image](https://github.com/user-attachments/assets/2fd90acd-6c93-408b-86d9-bc6e00f2914d)
-
 
 ## Customization
 
