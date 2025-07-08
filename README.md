@@ -15,17 +15,17 @@ A ChatGPT-like legal assistant interface that allows users to ask legal question
 ## How to Run
 
 1. **Install dependencies:**
-   ```bash
+   \`\`\`bash
    npm install
-   ```
+   \`\`\`
 
 2. **Start the development server:**
-   ```bash
+   \`\`\`bash
    npm run dev
-   ```
+   \`\`\`
 
 3. **Open your browser:**
-   Navigate to `http://localhost:3000`
+   Navigate to \`http://localhost:3000\`
 
 ## Usage
 
@@ -67,7 +67,7 @@ The application handles citations by:
 
 ## Project Structure
 
-```
+\`\`\`
 ├── app/
 │   ├── page.tsx          # Main chat interface
 │   └── layout.tsx        # App layout
@@ -77,7 +77,7 @@ The application handles citations by:
 │   ├── card.tsx
 │   └── textarea.tsx
 └── README.md
-```
+\`\`\`
 
 ## Features Implemented
 
@@ -91,11 +91,6 @@ The application handles citations by:
 ✅ Responsive design  
 ✅ TypeScript implementation  
 
-## Screenshots:
-
-![image](https://github.com/user-attachments/assets/032858a1-904b-4f21-9a2a-a9c33c54b775)
-![image](https://github.com/user-attachments/assets/f3b8ff3a-d516-4e78-9b27-912ffd1646f1)
-
 ## Customization
 
 To use your own legal documents:
@@ -105,12 +100,15 @@ To use your own legal documents:
 3. Ensure your PDFs support the \`#search=\` parameter for text highlighting
 
 Example citation format:
-```javascript
+\`\`\`javascript
 {
   text: "Your citation text here...",
   source: "Document_Name.pdf",
   link: "https://your-domain.com/documents/Document_Name.pdf",
   paragraph: 7
 }
-```
+\`\`\`
 
+---
+
+Built with ❤️ for Lexi Singapore
