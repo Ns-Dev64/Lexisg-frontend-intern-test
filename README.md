@@ -15,17 +15,17 @@ A ChatGPT-like legal assistant interface that allows users to ask legal question
 ## How to Run
 
 1. **Install dependencies:**
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 2. **Start the development server:**
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 3. **Open your browser:**
-   Navigate to \`http://localhost:3000\`
+   Navigate to `http://localhost:3000`
 
 ## Usage
 
