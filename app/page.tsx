@@ -32,7 +32,7 @@ const SIMULATED_RESPONSE = {
     {
       text: "as the age of the deceased at the time of accident was held to be about 54-55 years by the learned Tribunal, being self-employed, as such, 10% of annual income should have been awarded on account of future prospects.",
       source: "Dani_Devi_v_Pritam_Singh.pdf",
-      link: "https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf",
+      link: "https://lexisingapore-my.sharepoint.com/:b:/g/personal/harshit_lexi_sg/EdOegeiR_gdBvQxdyW4xE6oBCDgj5E4Bo5wjvhPHpqgIuQ?e=TEu4vzf",
       paragraph: 7,
     },
   ],
