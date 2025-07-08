@@ -92,6 +92,11 @@ The application handles citations by:
 ✅ Responsive design  
 ✅ TypeScript implementation  
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/2fd90acd-6c93-408b-86d9-bc6e00f2914d)
+
+
 ## Customization
 
 To use your own legal documents:
